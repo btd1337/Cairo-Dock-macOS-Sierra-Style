@@ -1,7 +1,10 @@
 # Cairo-Dock macOS Sierra Style
 One theme for Cairo-Dock based in the macOS Sierra dock.
 
-![First Screenshot](https://raw.githubusercontent.com/btd1337/Cairo-Dock-macOS-Sierra-Style/master/images/screenshot.png)
+![First Screenshot](https://raw.githubusercontent.com/btd1337/Cairo-Dock-macOS-Sierra-Style/master/images/screenshot1.png)
+
+![Second Screenshot](https://raw.githubusercontent.com/btd1337/Cairo-Dock-macOS-Sierra-Style/master/images/screenshot2.png)
+
 
 ## How to install
 
