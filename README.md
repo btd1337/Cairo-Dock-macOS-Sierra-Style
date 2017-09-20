@@ -6,7 +6,8 @@ One theme for Cairo-Dock based in the macOS Sierra dock.
 ## How to install
 
 ### First: 
-Make sure the Cairo Dock is already installed.
+ * Make sure the Cairo Dock is already installed.
+ * Recommended install the La Capitaine icon pack, available in https://github.com/keeferrourke/la-capitaine-icon-theme
 
 ### Second:
 Clone the repository for folder ~/.config/cairo-dock/themes/
