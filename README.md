@@ -25,6 +25,7 @@ Open Cairo-Dock settings > Appearance > Themes
 Set theme: Locate Cairo-Dock-macOS-Sierra-Style in the list and apply it.
 
 ### Extras:
+ * GTK Theme: eOS Sierra Gtk available in https://github.com/btd1337/eOS-Sierra-Gtk
  * Wallpaper: macOS Sierra wallpaper macbook available in https://github.com/btd1337/Cairo-Dock-macOS-Sierra-Style/blob/master/images/wallpapers/
  
  
