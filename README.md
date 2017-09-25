@@ -5,12 +5,14 @@ One theme for Cairo-Dock based in the macOS Sierra dock.
 
 ![Second Screenshot](https://raw.githubusercontent.com/btd1337/Cairo-Dock-macOS-Sierra-Style/master/images/screenshot2.png)
 
+![Third Screenshot](https://raw.githubusercontent.com/btd1337/Cairo-Dock-macOS-Sierra-Style/master/images/screenshot3.png)]
+
 
 ## How to install
 
 ### First: 
  * Make sure the Cairo Dock is already installed.
- * Recommended install the La Capitaine icon pack, available in https://github.com/keeferrourke/la-capitaine-icon-theme
+ * Recommended install the La Sierra icon pack a La Capitaine's fork available in https://github.com/btd1337/La-Sierra-Icon-Theme or/and La Capitaine Icon Theme: https://github.com/keeferrourke/la-capitaine-icon-theme.
  * Recommended install San Francisco Fonts, available in https://github.com/AppleDesignResources/SanFranciscoFont
 
 ### Second:
