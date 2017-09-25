@@ -16,13 +16,15 @@ One theme for Cairo-Dock based in the macOS Sierra dock.
 ### Second:
 Clone the repository for folder ~/.config/cairo-dock/themes/
 
-    $ git clone https://github.com/btd1337/Cairo-Dock-macOS-Sierra-Style ~/.config/cairo-dock/themes/
+    $ git clone https://github.com/btd1337/Cairo-Dock-macOS-Sierra-Style ~/.config/cairo-dock/themes/Cairo-Dock-macOS-Sierra-Style
     
 ### Third:
-Open Cairo-Dock settings > Appearance > Themes
+Open cairo-dock via menu or terminal
 
 ### Fourth:
-Set theme: Locate Cairo-Dock-macOS-Sierra-Style in the list and apply it.
+Set theme:
+Right click on cairo-dock >> cairo-dock >> configure >> themes >> Locate Cairo-Dock-macOS-Sierra-Style in list >> Apply
+
 
 ### Extras:
  * GTK Theme: eOS Sierra Gtk available in https://github.com/btd1337/eOS-Sierra-Gtk

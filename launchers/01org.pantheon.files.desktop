@@ -43,7 +43,7 @@ Terminal=false
 ShowOnViewport=0
 
 #f[0;100] Order you want for this launcher among the others:
-Order=13.875
+Order=1.3125
 
 Icon Type=0
 Type=Application
